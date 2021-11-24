@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\InheritanceApp.exe
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\InheritanceApp.deps.json
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\InheritanceApp.runtimeconfig.json
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\InheritanceApp.dll
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\ref\InheritanceApp.dll
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\bin\Debug\net6.0\InheritanceApp.pdb
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.dll
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\ref\InheritanceApp.dll
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.pdb
+C:\Users\אליאב ליגעלם\source\repos\InheritanceApp\obj\Debug\net6.0\InheritanceApp.genruntimeconfig.cache
